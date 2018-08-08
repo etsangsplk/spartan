@@ -53,3 +53,6 @@
 [submodule "src/catkin_projects/iiwa_driver"]
 	path = src/catkin_projects/iiwa_driver
 	url = git@github.com:RobotLocomotion/iiwa_driver.git
+[submodule "src/catkin_projects/ros_numpy"]
+	path = src/catkin_projects/ros_numpy
+	url = https://github.com/eric-wieser/ros_numpy
